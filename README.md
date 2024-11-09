@@ -5,3 +5,4 @@ You need a template map in SVG, formated, with id groups correclty setted. I use
 You need a table with information, like `population.csv`
 
 It will plot a colored map, hurray!
+![output_image.png](output_image.png)
